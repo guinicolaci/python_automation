@@ -1,16 +1,19 @@
-# Python Automation Project
+## Python automation
 
-## Description
+- Desenvolvedor de Software - Automação e Scripts em Python
 
-This project is dedicated to the study and implementation of automation tasks using Python. 
+- Desenvolvi e implementei scripts para automação de tarefas repetitivas, otimizando processos e aumentando a eficiência.
 
-## Prerequisites
+- Criei ferramentas para manipulação e organização de arquivos, incluindo renomeação e prefixação automática de documentos.
 
-- Python 3.8 or higher
-- pip (Python Package Manager)
+- Automatizei o envio de e-mails, personalizando mensagens e anexos conforme as necessidades.
 
-## Usage
+- Realizei operações avançadas em planilhas do Excel, incluindo leitura, escrita, organização de dados e geração de gráficos informativos.
 
-To run an automation script, navigate to the script’s directory and run the following command:
+- Desenvolvi scripts para extração e manipulação de dados de PDFs, facilitando a análise de informações.
 
-python script_name.py
+- Implementei funcionalidades de automação com PyAutoGUI para interação com teclado, mouse e captura de tela.
+
+- Desenvolvi automações para consulta de dados financeiros, como cotações do Ibovespa.
+
+- Ferramentas utilizadas: Python, Pandas, OpenPyXL, PyAutoGUI,
